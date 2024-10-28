@@ -1,0 +1,7 @@
+Personne 1 :
+Nom : GFJH KHKH
+Age : 234
+Rue : EFGRG
+Ville : EGREG
+Code Postal : 324
+-----------------------------
